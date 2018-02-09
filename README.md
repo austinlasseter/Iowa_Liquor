@@ -8,7 +8,7 @@ ACME asked Dunder Mifflin Consulting to determine:
 What is the optimal range of bottles ordered and price per bottle?
 Which counties in Iowa are the optimal locations to open new stores?
 
-# Where is our data from?
+# Where are the data from?
 ### Dataset 1: Liquor Sales
 Source: Iowa ABD
 Number of stores: About 1,400
